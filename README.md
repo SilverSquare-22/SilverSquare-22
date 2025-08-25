@@ -28,9 +28,9 @@ Here are some of the things I’ve worked on:
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverSquare-22&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverSquare-22&show_icons=true&theme=default)
 
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/silversquare22)
+[LinkedIn](https://www.linkedin.com/in/silversquare22)
