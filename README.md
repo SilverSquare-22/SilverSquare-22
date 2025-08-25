@@ -28,7 +28,7 @@ Here are some of the things I’ve worked on:
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverSquare-22&show_icons=true&theme=default&hide_rank=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverSquare-22&show_icons=true&theme=transparent&hide_rank=true)
 
 ---
 
