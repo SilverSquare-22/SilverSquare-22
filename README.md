@@ -1,5 +1,5 @@
 ## 👋 Hi there! I'm Anagha.
-This repository highlights my **contributions, projects, and learning journey** in software development.
+This repository highlights my **contributions, projects and learning journey** in software development.
 
 ---
 
@@ -18,5 +18,19 @@ This repository highlights my **contributions, projects, and learning journey** 
 
 ---
 
+## 🚀 Contributions & Projects
+Here are some of the things I’ve worked on:  
+
+- 🔹 **[My Python Programs](https://github.com/SilverSquare-22/My-Python-Programs)** – A repository which consists of basic Python programs covering some foundational concepts
+- 🔹 **[My Java Programs](https://github.com/SilverSquare-22/My-Java-Programs)** – It comprises of mini projects and programs developed in the Java language.
+- 🔹 **[SkySwings](https://github.com/SilverSquare-22/CloudCtrl)** – A weather app built using HTML, CSS and JavaScript that provides real-time weather updates with a responsive and visually-appealing UI
+
+---
+
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverSquare-22&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverSquare-22&theme=default)
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/silversquare22)
