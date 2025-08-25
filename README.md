@@ -1,5 +1,5 @@
 ## 👋 Hi there! I'm Anagha.
-This repository highlights my **contributions, projects and learning journey** in software development.
+This repository highlights my **contributions**, **projects** and **learning journey** in software development.
 
 ---
 
